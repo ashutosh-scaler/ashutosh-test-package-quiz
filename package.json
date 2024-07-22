@@ -1,0 +1,12 @@
+{
+  "name": "ashutosh-test-package-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "test private package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh Shrimal",
+  "license": "ISC"
+}
